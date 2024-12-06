@@ -106,7 +106,7 @@
 
         p{
             font-size: 5px;
-            background-image: url("assets/lain.jpeg");
+            background-image: url("/assets/lain.jpeg");
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
